@@ -5,6 +5,8 @@ The code in this repository is based on the Perceptron example given in the book
 
 ## Results
 
+The Perceptron was trained on the Iris Dataset
+
 <p float="left">
   <img src="Training error plot.png" width="400" />
   <img src="Decision Region.png" width="400" /> 
