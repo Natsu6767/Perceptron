@@ -1,4 +1,4 @@
-# An Implementation of a Perceptron in Python
+# An Implementation of a Perceptron in Python.
 
 This is an implentation of a Perceptron in Python3. 
 The code in this repository is based on the Perceptron example given in the book: Python Machine Learning by Sebastian Raschka.
